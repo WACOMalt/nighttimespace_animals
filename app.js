@@ -15,7 +15,6 @@ function RandInt(min, max)
 		return Math.floor(Math.random() * (max - min)) + min;
 	}
 
-
 var navMesh; //my actual terrain model, as a json export (patrol.js only supports that)
 var playerNavMeshGroup;  //something patrol.js put the processed mesh into
 var vertCount;  //amount of vertices in the navMesh model
