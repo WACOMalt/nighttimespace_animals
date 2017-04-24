@@ -1,0 +1,19 @@
+{
+  "name": "nighttimespace_animals",
+  "version": "0.0.1",
+  "description": "Animals for my Nighttime Space app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WACOMalt/nighttimespace_animals.git"
+  },
+  "author": "WACOMalt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WACOMalt/nighttimespace_animals/issues"
+  },
+  "homepage": "https://github.com/WACOMalt/nighttimespace_animals#readme"
+}
